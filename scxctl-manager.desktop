@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=SCX Scheduler Manager
+GenericName=Scheduler Manager
+Comment=Manage sched-ext BPF schedulers via scxctl
+Exec=scxctl-manager
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+Categories=System;Settings;
+Keywords=scheduler;sched-ext;scx;bpf;kernel;cachyos;performance;
+StartupNotify=true
