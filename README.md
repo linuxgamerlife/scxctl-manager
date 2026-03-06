@@ -42,7 +42,7 @@ sudo dnf install cmake gcc-c++ qt6-qtbase-devel
 
 ```bash
 git clone https://github.com/linuxgamerlife/scxctl-manager
-cd scx-scheduler-manager
+cd scxctl-manager
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build -j$(nproc)
 ```
