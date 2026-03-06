@@ -117,3 +117,6 @@ See the in-app **Reference** tab for full descriptions and the **Flags** tab for
 - Do **not** run `scx.service` and `scx_loader.service` simultaneously
 - Disable `ananicy-cpp` if you experience scheduler watchdog timeouts
 - If the scheduler list shows a built-in fallback, ensure `scx_loader.service` is running: `systemctl start scx_loader`
+
+
+##Built with help from Claude AI
